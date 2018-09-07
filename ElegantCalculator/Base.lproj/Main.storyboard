@@ -164,7 +164,6 @@
                                     <constraint firstItem="kos-9q-ixu" firstAttribute="top" secondItem="Ets-Mq-mLp" secondAttribute="top" id="ABj-B6-X7x"/>
                                     <constraint firstItem="K1X-QT-8CR" firstAttribute="bottom" secondItem="6M8-bE-JpO" secondAttribute="bottom" id="AFM-cH-7XO"/>
                                     <constraint firstItem="4hT-n1-Szs" firstAttribute="width" secondItem="c6q-0i-gAq" secondAttribute="width" id="EKK-f2-raY"/>
-                                    <constraint firstItem="LDf-k7-Idk" firstAttribute="width" secondItem="Ets-Mq-mLp" secondAttribute="width" id="FDL-9M-We9"/>
                                     <constraint firstItem="5cx-rA-h9m" firstAttribute="leading" secondItem="xwI-R3-w4O" secondAttribute="trailing" constant="1" id="GCf-0p-faE"/>
                                     <constraint firstItem="xwI-R3-w4O" firstAttribute="top" secondItem="c6q-0i-gAq" secondAttribute="bottom" constant="1" id="JA2-4N-h3X"/>
                                     <constraint firstItem="LDf-k7-Idk" firstAttribute="top" secondItem="Ets-Mq-mLp" secondAttribute="top" id="JN5-G5-0cJ"/>
@@ -173,7 +172,6 @@
                                     <constraint firstItem="K1X-QT-8CR" firstAttribute="leading" secondItem="VIY-1U-LRY" secondAttribute="trailing" constant="1" id="P4U-aa-sti"/>
                                     <constraint firstItem="VIY-1U-LRY" firstAttribute="bottom" secondItem="6M8-bE-JpO" secondAttribute="bottom" id="P4X-c6-kMa"/>
                                     <constraint firstItem="FBU-p8-Jiu" firstAttribute="top" secondItem="c6q-0i-gAq" secondAttribute="top" id="PBq-lg-hKd"/>
-                                    <constraint firstItem="kos-9q-ixu" firstAttribute="width" secondItem="Ets-Mq-mLp" secondAttribute="width" id="PTZ-LB-N7y"/>
                                     <constraint firstItem="RY6-g7-sje" firstAttribute="leading" secondItem="NiO-IA-NQU" secondAttribute="trailing" constant="1" id="RxK-uO-l5a"/>
                                     <constraint firstItem="Ets-Mq-mLp" firstAttribute="height" secondItem="cTx-Ak-2oB" secondAttribute="height" multiplier="0.235" id="S8O-FY-YGV"/>
                                     <constraint firstItem="4hT-n1-Szs" firstAttribute="top" secondItem="c6q-0i-gAq" secondAttribute="top" id="Sqo-Ms-yN0"/>
@@ -189,6 +187,7 @@
                                     <constraint firstItem="LDf-k7-Idk" firstAttribute="height" secondItem="Ets-Mq-mLp" secondAttribute="height" id="cSU-UF-32j"/>
                                     <constraint firstItem="NiO-IA-NQU" firstAttribute="bottom" secondItem="SEy-ni-diB" secondAttribute="bottom" id="dR1-MY-UGT"/>
                                     <constraint firstItem="c6q-0i-gAq" firstAttribute="top" secondItem="6M8-bE-JpO" secondAttribute="bottom" constant="1" id="eC9-38-aFB"/>
+                                    <constraint firstItem="kos-9q-ixu" firstAttribute="width" secondItem="Ets-Mq-mLp" secondAttribute="width" id="fSi-na-mrz"/>
                                     <constraint firstItem="6M8-bE-JpO" firstAttribute="height" secondItem="SEy-ni-diB" secondAttribute="height" id="gOQ-n4-GBy"/>
                                     <constraint firstItem="K1X-QT-8CR" firstAttribute="top" secondItem="6M8-bE-JpO" secondAttribute="top" id="hwH-U0-XgC"/>
                                     <constraint firstItem="FBU-p8-Jiu" firstAttribute="bottom" secondItem="c6q-0i-gAq" secondAttribute="bottom" id="j2t-3N-w3d"/>
@@ -198,6 +197,7 @@
                                     <constraint firstItem="RY6-g7-sje" firstAttribute="bottom" secondItem="SEy-ni-diB" secondAttribute="bottom" id="kuf-jD-wW1"/>
                                     <constraint firstItem="c6q-0i-gAq" firstAttribute="height" secondItem="SEy-ni-diB" secondAttribute="height" id="nnK-XR-isc"/>
                                     <constraint firstItem="4hT-n1-Szs" firstAttribute="bottom" secondItem="c6q-0i-gAq" secondAttribute="bottom" id="oFt-nO-3n3"/>
+                                    <constraint firstItem="LDf-k7-Idk" firstAttribute="width" secondItem="Ets-Mq-mLp" secondAttribute="width" id="oHL-h0-sCo"/>
                                     <constraint firstItem="5cx-rA-h9m" firstAttribute="width" secondItem="xwI-R3-w4O" secondAttribute="width" id="pZw-wC-vpY"/>
                                     <constraint firstItem="NiO-IA-NQU" firstAttribute="leading" secondItem="SEy-ni-diB" secondAttribute="trailing" constant="1" id="qIu-cq-ZiT"/>
                                     <constraint firstItem="NiO-IA-NQU" firstAttribute="width" secondItem="SEy-ni-diB" secondAttribute="width" id="rGX-pF-7hQ"/>
@@ -308,7 +308,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="backSpace" width="30" height="19"/>
+        <image name="backSpace" width="24" height="15"/>
         <image name="devide" width="15" height="17"/>
         <image name="minus" width="14" height="2"/>
         <image name="multiply" width="14" height="14"/>
